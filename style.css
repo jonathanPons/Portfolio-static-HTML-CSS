@@ -84,7 +84,7 @@ header h1 {
 }
 .projet img {
   max-width: 100%;
-  width: 950%;
+  width: 100%;
   object-fit: contain;
   padding: 5px;
   margin: 0 auto;
